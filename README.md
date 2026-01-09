@@ -1,4 +1,4 @@
 # Certificate-Google Cyber Security
 My certificate showing completion of the online Google Cyber Security course.
 
-[Google Cybersecurity Certificate.pdf](https://github.com/user-attachments/files/24450443/Google.Cybersecurity.Certificate.pdf)
+<img width="1850" height="1429" alt="Coursera Google Cyber Security Certificate" src="https://github.com/user-attachments/assets/b09e0bbf-124a-40fb-856f-f40ca027951f" />
